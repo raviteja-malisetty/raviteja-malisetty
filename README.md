@@ -9,6 +9,15 @@ Currently expanding my expertise into Artificial Intelligence, Data Engineering,
 - Exploring Data Engineering concepts and modern backend technologies
 - Interested in solving real-world problems using data and intelligent systems
 
+## 🛠 Technologies & Tools
+
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- Data Engineering
+- Git & GitHub
+- REST APIs
+
 ## 🚀 What I'm Currently Learning
 - Python for AI and Data Engineering
 - Machine Learning & Natural Language Processing
