@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Durga Raviteja Malisetty 👋
 
-<!--
-**raviteja-malisetty/raviteja-malisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 10+ years of experience as an IBM BPM Developer.  
+Currently expanding my expertise into Artificial Intelligence, Data Engineering, and Modern Software Development.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 10+ years experience designing and developing enterprise workflow solutions using IBM BPM
+- Currently learning and building projects in AI, Machine Learning, and NLP
+- Exploring Data Engineering concepts and modern backend technologies
+- Interested in solving real-world problems using data and intelligent systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Learning
+- Python for AI and Data Engineering
+- Machine Learning & Natural Language Processing
+- Data Engineering fundamentals
+- Modern Web Development
+
+## 🎯 Goals
+- Transition into AI / Data Engineering roles
+- Build practical projects and share them here
+- Contribute to open-source projects
+
+## 📫 Connect With Me
+- GitHub: https://github.com/raviteja-malisetty
